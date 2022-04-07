@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aayushgup
+- 👋 Hi, I’m Aayush Kasaudhan
 - 👀 I’m interested in Data structures and Algorithms
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning JavaScript and React (FSD)
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me at kasaudhanaayush@gmail.com
+- 📫 Feel free to connect with me at kasaudhanaayush@gmail.com
 
 <!---
 Aayushgup/Aayushgup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
